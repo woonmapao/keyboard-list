@@ -1,0 +1,901 @@
+[
+  {
+    "id": 1,
+    "name": "Simpler60 Keyboard Kit",
+    "type": "kit",
+    "price": 6500,
+    "options": {
+      "colors": [
+        "E-White",
+        "Anodized Black",
+        "Anodized Dark Grey",
+        "Anodized Brown"
+      ],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "1 x Keyboard Case 1 x PC Plate 1 x QMK/VIA Hotswap PCB with SMD RGB Backlights 1 x Type C Daughterboard 1 x JST Cable 1 x 3.7mm Dampener 1 x 0.5mm EVA Switch Pad 1 x 2mm PCB Dampener 1 x 1mm Case Dampener Screws and rubber feet"
+  },
+  {
+    "id": 2,
+    "name": "Wuque Studio Maze 64 Keyboard Kit",
+    "type": "kit",
+    "price": 4300,
+    "options": {
+      "colors": ["Black", "White"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Typing angle: 6 degrees Front Height: ~20mm Weight (unbuilt): 0.83 kg Alu Plate Case Material: Aluminum Mounting Method: Tray Mount Size: 29.6 x11.3 x 2.95cm"
+  },
+  {
+    "id": 3,
+    "name": "Saka68 Keyboard Kit",
+    "type": "kit",
+    "price": 8800,
+    "options": {
+      "colors": ["Black", "Blue", "Pink", "Green", "Purple", "E-White"],
+      "plate": [],
+      "pcb": ["Solderable", "ANSI Hotswap"],
+      "switches": []
+    },
+    "description": "65% + exploded cluster layout ISO, Split backspace support QMK/VIA Compatible USB C 5.4-degree angle Case top Case bottom Badge Anodised cases come with a Black Aluminium plate E-White cases come with a brass plate PCB  Mounting and assembly hardware"
+  },
+  {
+    "id": 4,
+    "name": "KBDFANS TOFU60 DZ60RGB-ANSI V2 HOT SWAP DIY KIT",
+    "type": "kit",
+    "price": 5500,
+    "options": {
+      "colors": [
+        "Black",
+        "Dark Gray",
+        "Silver",
+        "Burgundy",
+        "Dark Green",
+        "E-White",
+        "Dark Purple",
+        "Air Force Blue",
+        "Tiffany",
+        "Acrylic Frosted",
+        "Chocolate",
+        "Pine Green",
+        "Champagne gold",
+        "E-Coating Pink",
+        "E-Coating Gray",
+        "E-Yellow",
+        "Gray"
+      ],
+      "plate": ["Polycarbonate", "Brass", "Aluminum", "Carbonfiber"],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tofu 60% Aluminum case x1 Brass/Aluminum/Polycarbonate/Carbon fiber Plate x1 DZ60RGB ANSI V2 Hot-swappable PCB（Per-key RGB）  x1 Cherry Screw-in stabs 60 set x1 Rubber feet"
+  },
+  {
+    "id": 5,
+    "name": "BLADE60 SOLDERED MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 4900,
+    "options": {
+      "colors": [
+        "Bleak Irish Green",
+        "Bright Pearl Black",
+        "Misty Velley Grey",
+        "E-White",
+        "Spirit Storm Silver"
+      ],
+      "plate": ["Polycarbonate", "Brass", "Aluminum"],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "PCB: DZ60 V2 Soldered Flex Cut PCB (with RGB underglow, without Per-key RGB on top, USB-C interface, QMK/VIA support) Case: Blade60 Case Structure: O-Ring Mount Typing Angle: 7°  Plate: Brass/ Aluminum/ Polycarbonate  Stabilizers: Cherry screw-in stabs 60set Notes: We only retained four screw posts and one threaded hole to make the PCB more elastic."
+  },
+  {
+    "id": 6,
+    "name": "BLADE65 R2 WITH BADGE LIMITED EDITION ALUMINUM MECHANICAL KEYBOARD KIT",
+    "type": "kit",
+    "price": 11000,
+    "options": {
+      "colors": [
+        "E-White",
+        "E-Beige",
+        "Light Blue",
+        "Black",
+        "Gray",
+        "Burgundy Red"
+      ],
+      "plate": ["Polycarbonate", "Brass"],
+      "pcb": ["Solderable", "Hot-swap"],
+      "switches": []
+    },
+    "description": "Material: Aluminum case Badge: Brass Skull  Typing angle: 7° Structure: Gasket mount Size: 325 mm (length) x 125 mm (width) Hot-swap PCB: KBD67 Mark II v3 hot-swap PCB (Per-key RGB on top/ Type-C/ VIA/QMK support) Solderable PCB: KBD67 Mark II v3 Solderable PCB (with RGB underglow, no Per-key RGB on top/Type-C/VIA/QMK support) Plate: KBD67 Lite Polycarbonate/ Brass Stabs: Cherry screw-in stabs 60set Mute Silicone: KBD67 Lite Mute Silicone (Between PCB and Plate) Case foam: Between Case and PCB Weight: Around 2.2 kg Designer: KBDfans Wei"
+  },
+  {
+    "id": 7,
+    "name": "D60 WKL/WK MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 10500,
+    "options": {
+      "colors": [
+        "E-Coating Pink",
+        "E-Coating Blue",
+        "Top Green/Bottom Gray",
+        "Top Light Gray/Bottom Dark Gray"
+      ],
+      "plate": ["Polycarbonate", "Black FR4"],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Structure: Gasket mount Typing angle: 6 degree Layout: WK/WKL layout  Case: Aluminum case WK: DZ60RGB-ANSI V2 Hot-swap PCB WKL: DZ60RGB WKL Hot-swap PCB (7U spacebar) PCB: Hot-swap version, Support VIA configurator, Type-C, with Per-key RGB on top, fixed-layout Plate: Polycarbonate/FR4 Stabilizers: Cherry screw-in stabs 60 set ( E-coating pink kit come with Dyboox PC screw-in stabs 60 set) PCB foam: Put it between PCB and Plate Case foam: Put it between PCB and Case Weight: Brass weight bar Blocker: Alu material, color refer to the picture USB Port: Refer to the picture Designer: KBDfans Wei"
+  },
+  {
+    "id": 8,
+    "name": "D65 MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 9000,
+    "options": {
+      "colors": [
+        "Black",
+        "Grey",
+        "Burgundy Red",
+        "Dark Purple",
+        "E-White",
+        "E-Beige",
+        "E-Coating Pink",
+        "Pine Green",
+        "Top PC Bottom Black Alu",
+        "Top PC Bottom Dark Grey Alu",
+        "Top PC Bottom Dark Purple Alu",
+        "Top PC Bottom Burgundy Red Alu"
+      ],
+      "plate": ["PC", "Brass", "FR4"],
+      "pcb": ["Hot-swap", "Solder"],
+      "switches": []
+    },
+    "description": "65% Layout  Gasket Mount Case: Full aluminum case or Top PC bottom aluminum case (with Blockers and Brass weight) Hot-swap PCB: KBD67 MarK II V3 Hot-swap PCB (with Per-key RGB on top, without RGB underglow) Soldered PCB: KBD67 MarK II v3 Soldered PCB (with RGB underglow, without Per-key RGB on top) Plate: Polycarbonate/Brass/FR4 Stabilizers: Cherry screw-in stabs 60 set PCB foam: Put it between PCB and Plate (Hot-swap/Soldered version) Case foam: Put it between PCB and Case (Hot-swap/Soldered version) The PCB is fixed by 2 pieces of foam which are able to provide a dampened sound and feel tends to be quieter Designer: KBDfans Wei"
+  },
+  {
+    "id": 9,
+    "name": "D84 V2 75% GASKET MOUNT MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 8300,
+    "options": {
+      "colors": [
+        "Top Purple alu Bottom Acrylic",
+        "Top Black alu Bottom Acrylic",
+        "Top Blue alu Bottom Acrylic",
+        "Top Gray alu Bottom Acrylic",
+        "Top Red alu Bottom Acrylic",
+        "Top Silver alu Bottom Acrylic",
+        "Top E-White alu Bottom Acrylic",
+        "E-White",
+        "Black",
+        "Red",
+        "Blue",
+        "Gray",
+        "Silver",
+        "Purple"
+      ],
+      "plate": ["Polycarbonate", "Aluminum"],
+      "pcb": ["Hot-swap", "Hot-swap"],
+      "switches": []
+    },
+    "description": "Layout: 75% layout Structure: Gasket Mount Case: D84 V2 top aluminum case and bottom aluminum/ acrylic case  Typing Angle: 7° Weight bar: Aluminum material, weight bar color matches up with upper case Hot-swap PCB: KBD75 hot swap PCB (SKU:DP3259)(Type-C interface, with RGB underglow, no Per-key RGB) compatible with KBD75 v3/ v3.1, D84 keyboard. Fixed layout (84 keys), one layout ONLY for hot-swap PCB. Soldered PCB: KBD75 Rev 2.0 soldered PCB (SKU:PCB0005) (Type-C interface, with RGB underglow), compatible with KBD75 v1/ v2/ v3 Keyboard, Tofu84 Keyboard, D84 Keyboard. Plate: D84 V2 Brass/Aluminum/Polycarbonate Plate Stabilizers: Cherry screw-in stabs 60 sets (SKU:DP0003) Foams: Case foam + PCB foam + Gaskets Designer: KBDfans Wei Friendly Reminds: Due to the optimization of the internal structure of the case, the Plate, Case of D84 version 1 and version 2 are incompatible with each other."
+  },
+  {
+    "id": 10,
+    "name": "KBD67 LITE R3 MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 4100,
+    "options": {
+      "colors": [
+        "Black",
+        "White",
+        "Transparent",
+        "Transparent Orange",
+        "Transparent Ink Green",
+        "Transparent Dark Purple",
+        "Transparent Light Blue",
+        "Transparent Deep Blue"
+      ],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Top and Bottom ABS plastic case Mute silicone Screw-in stabilizers 60 set Wired version supports VIA; Bluetooth version only supports TMK firmware Wired version supports RGB and Hot-swap; Bluetooth version does not support RGB effects  Injection molding polycarbonate plate (No necessary to add stand-offs) USB-C supports MAC, Windows, Linux, etc.  Compatible with MX and MX clone switches KBD67 Lite Acceptable Quality Standards: Click Made in China Designed by KBDfans"
+  },
+  {
+    "id": 11,
+    "name": "KBD75 V3.1 MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 6900,
+    "options": {
+      "colors": [
+        "Pine Green",
+        "Violet Purple",
+        "Deep Blue",
+        "Light Blue",
+        "Black",
+        "Gray",
+        "Burgundy Red",
+        "Rose Gold",
+        "E-white",
+        "E-Creamy White"
+      ],
+      "plate": ["Aluminum", "Polycarbonate", "Brass"],
+      "pcb": ["Soldered PCB", "Hot-swap PCB"],
+      "switches": []
+    },
+    "description": "Soldered vesrion: KBD75 Rev 2.0 PCB (PCB0005) (RGB underglow), also fits with KBD75 v1/ v2/ v3 Keyboard, Tofu84 Keyboard, D84 Keyboard Hot-swap version: KBD75 hot swap PCB (RGB underglow, no Per-key RGB) , fits with KBD75 v3/ v3.1, D84 keyboard. Fixed layout (84keys), not support other layouts. Typing angle: 7° Interface: Type-C Case: Top-mount, Aluminum material 75% layout, Acrylic mid-layer Plate: Brass/ Aluminum/ Polycarbonate Plate Stabs: Cherry screw-in stabs 60set x1 PCB foam: Put it between PCB and Plate Case foam: Put it between PCB and Case Weight bar: Aluminum material default (KBD75 V2 Brass weight bar doesn't fit KBD75 V3.1 Case)"
+  },
+  {
+    "id": 12,
+    "name": "TOFU65 DZ65RGB V3 HOT SWAP CUSTOMIZED MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 6900,
+    "options": {
+      "colors": [
+        "Tofu 65 black",
+        "Tofu 65 silver",
+        "Tofu 65 Gray",
+        "Tofu 65 Acrylic",
+        "Tofu 65 INK Blue",
+        "Tofu 65 Chocolate",
+        "Tofu 65 Burgundy Red",
+        "Tofu 65 Purple",
+        "Tofu 65 E-white"
+      ],
+      "plate": [
+        "Brass",
+        "Aluminum silver color",
+        "Polycarbonate",
+        "Carbon fiber"
+      ],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tofu65 aluminum case 65% Layout Tofu Case Acceptable Quality Standards:  There may be a little hanging points inside the case surface DZ65RGB v3 Hot-swap PCB, with Per-key RGB on top, without RGB underglow, Type-C interface Cherry screw-in stabilizers 60 set VIA support QMK Firmware Made In China"
+  },
+  {
+    "id": 13,
+    "name": "TOFU84 HOT-SWAP RGB 75% MECHANICAL KEYBOARD DIY KIT",
+    "type": "kit",
+    "price": 6600,
+    "options": {
+      "colors": [
+        "E-White",
+        "Black",
+        "Tiffany",
+        "E-coating Gray",
+        "Purple",
+        "Silver",
+        "Burgundy Red",
+        "Gray",
+        "Acrylic",
+        "Dark Blue",
+        "Light Orange"
+      ],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tray Mount case 75% layout Unassembled KBD75RGB Hot-swap PCB(DP4025); Per-key RGB, without RGB underglow, Type-C interface; Support VIA and QMK (Pre-flashed with VIA compatible firmware already) Fixed layout Aluminum plate Case foam DP0501 (Put it between case and PCB) PCB foam DP1393 (Put it between plate and PCB) Cherry screw-in stabs 60 set"
+  },
+  {
+    "id": 14,
+    "name": "DROP SIGNATURE SERIES AMERICANA KEYBOARD",
+    "type": "keyboard",
+    "price": 10500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile, Space Gray) 6° case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Drop MT3 Americana Keycap Set  Stabilizers: Everglide stabilizers Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 15,
+    "name": "DROP SIGNATURE SERIES LASER WAVE KEYBOARD",
+    "type": "keyboard",
+    "price": 10500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile) 6° case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Drop + MiTo GMK Laser Custom Keycap Set  Stabilizers: Everglide stabilizers Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 16,
+    "name": "DROP SIGNATURE SERIES CYBER MOON KEYBOARD",
+    "type": "keyboard",
+    "price": 10500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile) 6°case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Drop + MiTo MT3 Cyber Custom Keycap Set  Stabilizers: PA12 housings, UHMWPE stems Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 17,
+    "name": "DROP SIGNATURE SERIES CLASSIC MIDNIGHT KEYBOARD",
+    "type": "keyboard",
+    "price": 12100,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile) 6°case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Cherry White-on-Black Keycap Set  Stabilizers: Everglide stabilizers Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 18,
+    "name": "DROP SIGNATURE SERIES PURPLE MIDNIGHT KEYBOARD",
+    "type": "keyboard",
+    "price": 12100,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile) 6°case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Cherry Purple-on-Black Keycap Set  Stabilizers: Everglide stabilizers Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 19,
+    "name": "DROP ENTR MECHANICAL KEYBOARD",
+    "type": "keyboard",
+    "price": 2800,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "87 keys Anodized aluminum case Plate-mounted Cherry-style stabilizers Gateron Yellow or Halo True switches Doubleshot PBT shine-through keycaps USB-C connector N-key rollover Dimensions (including feet): 14.2 x 5 x 1.25 in (36 x 12.8 x 3.2 cm) Weight: 2.05 lbs (0.93 kg)"
+  },
+  {
+    "id": 20,
+    "name": "DROP CTRL HIGH-PROFILE MECHANICAL KEYBOARD",
+    "type": "keyboard",
+    "price": 7600,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "87 keys Anodized CNC-machined aluminum frame 6º case angle Custom PCB  Hot-swap switch sockets   QMK firmware Plate-mounted Cherry-style stabilizers Cherry MX, Kaihua, or Halo switches Doubleshot PBT shine-through keycaps High-profile design Dual USB-C connectors PCB compatible with 3-pin plate-mount switches only Dimensions: 14.5 x 5.5 x 1.75 in (36.8 x 14 x 4.4 cm) Weight: 4.25 lbs (1.9 kg)"
+  },
+  {
+    "id": 21,
+    "name": "DROP + TOKYO KEYBOARD TOKYO60 KEYBOARD KIT",
+    "type": "keyboard",
+    "price": 5600,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "60 keys CNC chassis with integrated plate Acrylic diffuser (can be positioned on the bottom or between the aluminum pieces) 2-piece aluminum construction (high-profile 6000 series) 5º case angle with chamfered edges HHKB-style layout Designed in Tokyo USB-C PCBA with hot-swap sockets (solderless kit) Compatible with MX style switches (plate and PCB mount) Cherry profile dye-sublimated keycaps Dimensions, assembled: 11.8 x 4.4 x 1.4 in (30 x 11.2 x 3.6 cm) Weight, assembled: 24.7 oz (700 g)"
+  },
+  {
+    "id": 22,
+    "name": "LOGITECH PRO GAMING KEYBOARD",
+    "type": "keyboard",
+    "price": 3800,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Logitech Layout: TKL  Switches: GX Blue Clicky Actuation distance: 2.0 mm  Actuation force: 50 g  Total travel distance: 3.7 mm  RGB backlighting F-key programming and RGB customization via G HUB software Adjustable feet Connector: Micro-USB  Cable length: 5.9 ft (1.8 m), detachable Dimensions: 1.3 x 14.2 x 6.02 in (3.4 x 36.1 x 15.3 cm)"
+  },
+  {
+    "id": 23,
+    "name": "DROP SIGNATURE SERIES ULTRASONIC KEYBOARD",
+    "type": "keyboard",
+    "price": 12100,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile) 6°case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Drop + MiTo GMK Laser Custom Keycap Set  Stabilizers: PA12 housings, UHMWPE stems Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 24,
+    "name": "DROP + T0MB3RY SA CARBON CUSTOM KEYCAP SET",
+    "type": "keycap",
+    "price": 6900,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Manufactured by Signature Plastics Profile: SP SA Rows: 1-1-2-3-4-3 Material: Doubleshot ABS  Cherry MX compatible"
+  },
+  {
+    "id": 25,
+    "name": "DROP PARAGON SERIES FULL STACK KEYBOARD",
+    "type": "keyboard",
+    "price": 17200,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile, “Space Gray” colorway) 6°case angle Switches: cherry MX Silent Red RGB switches (hand-lubricated) Keycaps: Drop + Oblotzky SA Oblivion Custom Keycap Set  Stabilizers: Everglide stabilizers Hand-placed dampening material between case and PCBA Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 26,
+    "name": "DROP EXPRESSION SERIES KEYSTERINE KEYBOARD",
+    "type": "keyboard",
+    "price": 5200,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys  Layout: TKL Case: Black ENTR anodized aluminum case Switches: Holy Panda Switches Keycaps: Drop Keysterine Keycap Set Plate-mounted Cherry-style stabilizers White backlighting  Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 27,
+    "name": "DROP PARAGON SERIES SHOGUN KEYBOARD",
+    "type": "keyboard",
+    "price": 17200,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 67 keys Layout: 65% Anodized CNC-machined aluminum frame (ALT High-Profile) 6°case angle Switches: Drop + Invyr Holy Panda switches (hand-lubricated) Keycaps: Drop + RedSuns GMK Red Samurai Custom Keycap Set  Stabilizers: Custom Gateron stabilizers Hand-placed dampening material between case and PCBA Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 28,
+    "name": "DROP SIGNATURE SERIES SEA URCHIN KEYBOARD",
+    "type": "keyboard",
+    "price": 10400,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Drop 87 keys Layout: TKL Anodized CNC-machined aluminum frame (CTRL High-Profile, Dark Purple) 6° case angle Switches: Drop + Invyr Holy Panda switches Keycaps: Drop GMK Hennessey Keycap Set Stabilizers: Everglide stabilizers Hot-swappable switch sockets  RGB backlighting  Programmable with QMK firmware Connectivity: USB-C Hand-assembled in the USA"
+  },
+  {
+    "id": 29,
+    "name": "WOMIER K61 ACRYLIC MECHANICAL KEYBOARD",
+    "type": "keyboard",
+    "price": 2500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Womier 61-key layout (standard ANSI 60%) Full RGB LEDs (per key and underglow) Hot-swappable sockets 4-layer acrylic case  Type-C USB port Full anti-ghosting Barebones: No switches or keycaps Switches: Gaterons available at checkout"
+  },
+  {
+    "id": 30,
+    "name": "DROP ALT BAREBONES MECHANICAL KEYBOARD",
+    "type": "barebone",
+    "price": 4400,
+    "options": {
+      "colors": ["Black", "Space Gray"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "67 keys Anodized CNC machined aluminum frame Custom PCB  Hot-swap switch sockets  QMK firmware Plate-mounted Cherry-style stabilizers Floating key design Dual USB-C connectors PCB compatible with 3-pin plate-mount switches only Weight: 24.5 oz (696 g) Dimensions: 12.7 x 4.4 x 1.25 in (32.2 x 11.2 x 3.2 cm)"
+  },
+  {
+    "id": 31,
+    "name": "DROP ALT HIGH-PROFILE BAREBONES KEYBOARD",
+    "type": "barebone",
+    "price": 5900,
+    "options": {
+      "colors": ["Black", "Space Gray"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "67 keys Anodized CNC machined aluminum frame Custom PCB  Hot-swap switch sockets  QMK firmware Plate-mounted Cherry-style stabilizers Floating key design Dual USB-C connectors PCB compatible with 3-pin plate-mount switches and stabilizers only Halo mechanical switches: 3 pin, plate mount Kailh Box mechanical switches: 3 pin, plate mount Kailh Pro mechanical switches: 3 pin, plate mount Kailh Speed mechanical switches: 3 pin, plate mount Gateron SMD mechanical switches: 3 pin, plate mount Cherry RGB mechanical switches: 3 pin, plate mount Aliaz mechanical switches: 5 pin, PCB mount Dimensions: 12.67 x 4.41 x 1.3 in (32.2 x 11.2 x 3.3 cm)  Weight: 43 oz (1,219 g)"
+  },
+  {
+    "id": 32,
+    "name": "GK64X HOT-SWAPPABLE RGB MECHANICAL KEYBOARD KIT",
+    "type": "kit",
+    "price": 2800,
+    "options": {
+      "colors": ["Black", "White"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "GK Layout: 60%  Arrow keys Support for a split spacebar (plate allows for interchangeable spacebar bracket) Connection: USB-C Case material: ABS Case profile: High-profile 32-bit microcontroller unit with 8M flash Per-key RGB Kailh hot-swappable sockets (five-pin)"
+  },
+  {
+    "id": 33,
+    "name": "DROP SHIFT BAREBONES MECHANICAL KEYBOARD",
+    "type": "barebone",
+    "price": 5900,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "102 keys Anodized, CNC-machined aluminum frame Custom PCB  Kaihua hot-swap switch sockets QMK firmware Plate-mounted Cherry-style stabilizers Floating key design Dual USB-C connectors PCB compatible with plate-mount switches only Dimensions (fully assembled): 15.2 x 6.1 x 1.7 in (38.6 x 15.5 x 4.3 cm) Weight (fully assembled): 41.7 oz (1,182 g)"
+  },
+  {
+    "id": 34,
+    "name": "KEYDOUS NJ80 BAREBONES BLUETOOTH RGB HOT-SWAPPABLE KEYBOARD",
+    "type": "barebone",
+    "price": 4000,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Epomaker 80 keys Layout: 75% Plate material: Steel Hot-swappable switch sockets Connectivity: USB-C, Bluetooth 5.1, 2.4 GHz Battery capacity: 4400 mAh Full, south-facing RGB LEDs NKRO anti-ghosting Connectivity: USB-C Weight: 2.2 lbs (1 kg)"
+  },
+  {
+    "id": 35,
+    "name": "IDOBAO ID80 V2 75% HOT-SWAPPABLE MECHANICAL KEYBOARD KIT",
+    "type": "kit",
+    "price": 6900,
+    "options": {
+      "colors": ["Black", "White"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "IDOBAO  Layout: 75% Case material: Anodized aluminum Integrated plate Per-key white LED backlighting RGB underglow Acrylic bottom Brass weight Kailh hot-swappable switch sockets Connectivity: USB-C"
+  },
+  {
+    "id": 36,
+    "name": "DROP MT3 JUKEBOX KEYCAP SET",
+    "type": "keycap",
+    "price": 3800,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Produced by Drop Designed by Livingspeedbump MT3 profile ABS plastic Doubleshot keycaps Compatible with Cherry MX switches and clones Fully sculpted based on IBM beamspring keycaps Made in China"
+  },
+  {
+    "id": 37,
+    "name": "DROP + MITO SA GODSPEED CUSTOM KEYCAP SET",
+    "type": "keycap",
+    "price": 4500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Designed by MiTo Produced by Signature Plastics SA profile ABS doubleshot legends MX-style stem Made in USA"
+  },
+  {
+    "id": 38,
+    "name": "NPKC GRADIENT PBT DOUBLESHOT SIDE-LIT KEYCAP SET",
+    "type": "keycap",
+    "price": 1600,
+    "options": {
+      "colors": ["Sunset Blue", "Sky Blue"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "NPKC 105 keys Doubleshot PBT plastic OEM profile"
+  },
+  {
+    "id": 39,
+    "name": "TAI-HAO PBT DOUBLESHOT CUBIC KEYCAP SET",
+    "type": "keycap",
+    "price": 2600,
+    "options": {
+      "colors": ["Mykonos", "Spring in Kyoto"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tai-Hao 140 keys (with an extra spacebar) Material: PBT Profile: Cubic Shine-through RGB backlit legends Compatible with Cherry MX switches and clones"
+  },
+  {
+    "id": 40,
+    "name": "DROP + REDSUNS GMK RED SAMURAI CUSTOM KEYCAP SET",
+    "type": "keycap",
+    "price": 5200,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Designed by RedSuns Made in Germany by GMK Electronic Design GmbH Original Cherry Corp. profile Material: Doubleshot ABS  Thickness 1.5 mm Compatible with Cherry MX switches and clones"
+  },
+  {
+    "id": 41,
+    "name": "TAI-HAO 22-KEY RUBBER BACKLIT GAMING KEYCAP SET",
+    "type": "keycap",
+    "price": 800,
+    "options": {
+      "colors": ["Jelly Pink", "Purple Mystery", "Zinc Yellow"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tai-Hao Set of 22 keycaps: (1–6, arrow keys, Q, W, E, R, A, S, D, F, Z, X, C, V, up-, left-, down-, and right-arrow) Made in Taiwan Material: rubberized ABS plastic Double shot shine-through construction OEM profile Cherry MX compatible"
+  },
+  {
+    "id": 42,
+    "name": "TAI-HAO RAINBOW SHERBET PBT BACKLIT KEYCAPS",
+    "type": "keycap",
+    "price": 1750,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Tai-Hao Base kit includes 121 keycaps Material: PBT Doubleshot boldface legends Shine-through RGB OEM profile"
+  },
+  {
+    "id": 43,
+    "name": "XY KITTY PAW PBT DIP-DYED KEYCAP SET",
+    "type": "keycap",
+    "price": 2600,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "XY  129 keycaps Keycap profile: Cherry Keycap material: PBT  Legends (black keycaps): Dip-dyed and laser-etched Legends (yellow keycaps): Dye-subbed"
+  },
+  {
+    "id": 44,
+    "name": "GKS XDA V2 DYE-SUBBED PBT MATCHA KEYCAP SET",
+    "type": "keycap",
+    "price": 1300,
+    "options": {
+      "colors": ["Japanese", "Korean", "Russian"],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "GKs 124 keycaps Profile: XDA V2 Material: PBT Keycap thickness: 1.4 mm Dye-sublimated legends Compatible with Cherry MX switches and clones"
+  },
+  {
+    "id": 45,
+    "name": "ARTIFACT BLOOM SERIES KEYCAP SET: RED VELVET",
+    "type": "keycap",
+    "price": 1400,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Artifact  Bloom Series  Base kit: 129 keycaps UK ISO kit add-on: 9 keycaps WKL kit add-on: 4 keycaps Material: PBT Legends: Dye-subbed Profile: Cherry Compatible with Cherry MX switches and clones"
+  },
+  {
+    "id": 46,
+    "name": "ARTIFACT BLOOM SERIES KEYCAP SET: FUTURES",
+    "type": "keycap",
+    "price": 1600,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Artifact  Bloom Series  Base kit: 129 keycaps UK ISO kit add-on: 9 keycaps WKL kit add-on: 4 keycaps Material: PBT Legends: Dye-subbed Profile: Cherry Compatible with Cherry MX switches and clones"
+  },
+  {
+    "id": 47,
+    "name": "IDOBAO MA BLUE CAT PBT DYE-SUBBED KEYCAP SET",
+    "type": "keycap",
+    "price": 1800,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "IDOBAO Base kit: 142 keycaps Novelties: 12 keycaps Keycap profile: MA Keycap material: PBT Legends: Dye-subbed  Height: 12 mm"
+  },
+  {
+    "id": 48,
+    "name": "DROP + T0MB3RY SA YURI CUSTOM KEYCAP SET",
+    "type": "keycap",
+    "price": 3800,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Designed by T0mb3ry Produced by Signature Plastics SA profile (DCS for the ALPS Yuri Kit) MX-style stem (ALPS-style stem for ALPS Yuri Kit) Doubleshot ABS legends Made in USA"
+  },
+  {
+    "id": 49,
+    "name": "DROP + MITO GMK LASER CUSTOM KEYCAP SET",
+    "type": "keycap",
+    "price": 3500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Designed by MiTo Produced by GMK Doubleshot ABS Compatible with Cherry MX switches and clones Made in Germany"
+  },
+  {
+    "id": 50,
+    "name": "ZEAL ZILENTS V2 TACTILE SWITCHES",
+    "type": "switches",
+    "price": 500,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": ["62g", "65g", "67g", "78g"]
+    },
+    "description": "Manufactory: Gateron  Brand: Zeal PC  Zilents v2- 62g - Tactile (Blue),Mx switch, Bottom out:62g, PCB mount 5-pin, POM stem, PC housing Zilents v2- 65g - Tactile (Blue),Mx switch, Bottom out:65g, PCB mount 5-pin, POM stem, PC housing Zilents v2- 67g - Tactile (Blue),Mx switch, Bottom out:67g, PCB mount 5-pin, POM stem, PC housing Zilents v2- 78g - Tactile (Blue),Mx switch, Bottom out:78g, PCB mount 5-pin, POM stem, PC housing"
+  },
+  {
+    "id": 51,
+    "name": "NOVELKEYS X KAILH CREAM/CREAM CHOCOLATE LINEAR SWITCHES",
+    "type": "switches",
+    "price": 300,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": [
+        "NovelKeys Cream switch",
+        "Novelkeys Cream Chocolate POM switch"
+      ]
+    },
+    "description": "The switches are sold in packs of 10. Quantity 1 = 10 switches. Cream Switches NovelKeys Cream switches are a brand new linear switch. Featuring housing and stem that is made out of self lubricating POM, this linear is a smooth and unique experience. The switch is also a first for Kailh, as it features MX style latching for the housing.  NovelKeys Cream - Linear | 4mm travel | 2mm operating | 55g actuation | 70g bottom out  NovelKeys x Kailh Cream Chocolate POM Switch -  Linear | 4 mm travel | 2 mm operating | 55g actuation | 70g bottom out The parameters are the same as the Novelkeys Cream, Housing and Stem are made from POM material and are custom colors of the Cream Switch"
+  },
+  {
+    "id": 52,
+    "name": "NOVELKEYS X KAILH BOX THICK CLICKY SWITCHES",
+    "type": "switches",
+    "price": 160,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": ["Jade", "Navy"]
+    },
+    "description": "BOX Navy features the same spring as the BOX Pale Blue, but with a thicker click bar. BOX Jade features the same spring as the BOX White, but with a thicker click bar. Sold in packs of 10 The Thick Clicks features a thicker click bar. This increases the tactile feedback tremendously and creates a deeper and louder click. Jade Clicky 50g operating force 1.8mm Actuation 3.6mm Bottom Plate mount 3pin MX stem Navy Clicky 60g operating force 1.8mm Actuation 3.6mm Bottom Plate mount 3pin MX stem"
+  },
+  {
+    "id": 53,
+    "name": "ALIAZ SILENT TACTILE SWITCHES",
+    "type": "switches",
+    "price": 330,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": ["60g", "70g", "80g", "100g"]
+    },
+    "description": "Style: Tactile Volume: Silent Manufacturer: Gateron Mount: 5-pin PCB mount LED support: Yes Compatible: Cherry MX 2.0 mm pre travel 4.0 mm total travel"
+  },
+  {
+    "id": 54,
+    "name": "GATERON MILK BLACK LINEAR SWITCHES",
+    "type": "switches",
+    "price": 110,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Black Linear 60 cN operating force 2.0 mm pre travel 4.0 mm total travel PCB mount 5pin MX stem"
+  },
+  {
+    "id": 55,
+    "name": "CHERRY MX RED SILENT LINEAR SWITCHES",
+    "type": "switches",
+    "price": 220,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Linear 45 cN operating force 1.9 mm pre travel 3.7 mm total travel Plate mount 3pin MX stem"
+  },
+  {
+    "id": 56,
+    "name": "GATERON CAPS GOLD YELLOW LINER SWITCHES",
+    "type": "switches",
+    "price": 690,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Linear 50 cN operating force 2.0 mm pre-travel 4.0 mm total travel Plate mount 3pin MX stem"
+  },
+  {
+    "id": 57,
+    "name": "TURQUOISE TEALIOS LINEAR SWITCHES",
+    "type": "switches",
+    "price": 550,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": ["63.5g", "65g"]
+    },
+    "description": "63.5g Turquoise Tealios feature a vibrant Tiffany blue housing and stem, carefully matched to be a vivid and colorful switch that everyone knows and loves."
+  },
+  {
+    "id": 58,
+    "name": "GATERON CAPS MILKY YELLOW LINEAR SWITCHES",
+    "type": "switches",
+    "price": 440,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Type: Linear Operating force: 50 cN  3 pins Pre-travel: 2.0 mm Total travel: 4.0 mm  Mount: Plate mount 3pin Stem: MX style"
+  },
+  {
+    "id": 59,
+    "name": "GATERON INK V2 BLACK LINEAR SWITCHES",
+    "type": "switches",
+    "price": 300,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": []
+    },
+    "description": "Linear 60 cN operating force 2.0 mm pre travel 4.0 mm total travel PCB mount 5pin MX stem"
+  },
+  {
+    "id": 60,
+    "name": "GATERON PRO PRE-LUBED YELLOW/RED/SILVER LINEAR SWITCHES",
+    "type": "switches",
+    "price": 330,
+    "options": {
+      "colors": [],
+      "plate": [],
+      "pcb": [],
+      "switches": ["yellow", "red", "silver"]
+    },
+    "description": "Yellow Linear Plate mount 3pins Operating force: 50 ±15 gf Pre-travel: 2.0±0.6 mm Total travel: 4.0±0.4 mm MX stem Red Linear Plate mount 3pins Operating force: 45 ±15 gf Pre-travel: 2.0±0.6 mm Total travel: 4.0±0.4 mm MX stem Silver Linear Two-stage switch springs Plate mount 3 pins  Actuation：35 gf Bottom-out: 45±5 gf Pre-travel：1.2±0.3 mm Total travel：3.4-0.4 mm lifetime: 80 million MX stem"
+  }
+]
